@@ -102,7 +102,6 @@ All free:
 
 - [VS Code](https://code.visualstudio.com/) — code editor
 - [Node.js](https://nodejs.org/) — JavaScript runtime
-- [GitHub Desktop](https://desktop.github.com/) — visual git client
 - [Claude Code](https://www.anthropic.com/claude-code) — AI coding assistant (requires Anthropic account)
 
 ---
